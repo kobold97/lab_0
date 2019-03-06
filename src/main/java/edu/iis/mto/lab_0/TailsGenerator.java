@@ -16,7 +16,7 @@ public class TailsGenerator {
 			tails.add(value.substring(i));
 		}
 
-		tails.add("");
+		tails.add(""); 
 		return tails;
 	}
 }
