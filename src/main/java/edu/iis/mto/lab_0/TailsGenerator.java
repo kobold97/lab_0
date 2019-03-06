@@ -19,4 +19,4 @@ public class TailsGenerator {
 		tails.add(""); 
 		return tails;
 	}
-}
+} 
